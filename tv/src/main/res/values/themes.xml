@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.PineHotelTV" parent="@style/Theme.Leanback" />
+</resources>

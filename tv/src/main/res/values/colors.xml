@@ -1,0 +1,17 @@
+<resources>
+    <color name="background_gradient_start">#000000</color>
+    <color name="background_gradient_end">#DDDDDD</color>
+    <color name="fastlane_background">#0096a6</color>
+    <color name="search_opaque">#ffaa3f</color>
+    <color name="selected_background">#ffaa3f</color>
+    <color name="default_background">#3d3d3d</color>
+
+    <color name="home_bg">#1A0E14</color>
+    <color name="tile_bg">#2A1620</color>
+    <color name="tile_bg_focused">#3D2233</color>
+    <color name="gold_accent">#D4AF37</color>
+    <color name="header_text">#FFFFFF</color>
+    <color name="subtitle_text">#B39DAA</color>
+    <color name="card_border">#4A2A38</color>
+    <color name="pink_accent">#D98BA8</color>
+</resources>

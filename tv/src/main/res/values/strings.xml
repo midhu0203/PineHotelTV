@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">PineHotelTV</string>
+    <string name="browse_title">Videos by Your Company</string>
+    <string name="related_movies">Related Videos</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Watch trailer</string>
+    <string name="watch_trailer_2">FREE</string>
+    <string name="rent_1">Rent By Day</string>
+    <string name="rent_2">From $1.99</string>
+    <string name="buy_1">Buy and Own</string>
+    <string name="buy_2">AT $9.99</string>
+    <string name="movie">Movie</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+
+    <string name="hotel_name">PINE HOTEL</string>
+    <string name="welcome_guest">Welcome, Guest</string>
+    <string name="room_placeholder">Room 205</string>
+
+    <string name="tile_live_tv">LIVE TV</string>
+    <string name="tile_live_tv_sub">Watch Live Channels</string>
+    <string name="tile_movies">MOVIES</string>
+    <string name="tile_movies_sub">Watch Movies &amp; Shows</string>
+    <string name="tile_room_service">ROOM SERVICE</string>
+    <string name="tile_room_service_sub">Order Food &amp; Beverages</string>
+    <string name="tile_housekeeping">HOUSEKEEPING</string>
+    <string name="tile_housekeeping_sub">Request Housekeeping</string>
+    <string name="tile_hotel_info">HOTEL INFORMATION</string>
+    <string name="tile_hotel_info_sub">About Our Hotel</string>
+    <string name="tile_wifi">WI-FI</string>
+    <string name="tile_wifi_sub">Connect to Internet</string>
+    <string name="tile_gallery">GALLERY</string>
+    <string name="tile_gallery_sub">Explore Hotel Photos</string>
+    <string name="tile_messages">MESSAGES</string>
+    <string name="tile_messages_sub">Messages from Hotel</string>
+    <string name="tile_settings">SETTINGS</string>
+    <string name="tile_settings_sub">System Settings</string>
+
+    <string name="wifi_screen_title">Wi-Fi Access</string>
+    <string name="wifi_ssid_label">Network: %1$s</string>
+    <string name="wifi_password_label">Password: %1$s</string>
+    <string name="guest_label_format">Guest: %1$s  |  Room: %2$s</string>
+    <string name="footer_hint">Press OK on remote to select  •  Press BACK to go back</string>
+    <string name="live_tv_button">LIVE TV</string>
+    <string name="my_bookings_button">MY BOOKINGS</string>
+</resources>

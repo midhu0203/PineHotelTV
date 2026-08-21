@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/home_tile"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="10dp"
+    android:layout_margin="4dp"
+
+    android:background="@drawable/tile_focus_overlay"
+
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:clickable="true"
+    android:descendantFocusability="blocksDescendants">
+
+    <TextView
+        android:id="@+id/tile_icon"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:gravity="center"
+        android:text="●"
+        android:textColor="@color/gold_accent"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tile_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="TITLE"
+        android:textColor="@color/header_text"
+        android:textSize="13sp"
+        android:textStyle="bold"
+        android:layout_marginTop="5dp"
+        android:maxLines="1" />
+
+    <TextView
+        android:id="@+id/tile_subtitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Subtitle"
+        android:textColor="@color/subtitle_text"
+        android:textSize="9sp"
+        android:layout_marginTop="2dp"
+        android:maxLines="1" />
+
+</LinearLayout>
